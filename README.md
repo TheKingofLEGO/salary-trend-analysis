@@ -17,3 +17,8 @@ The goal is to show growth, decline, or stability for each job category in a way
 - Identifies which job categories are above or below their average salary
 - Tracks year-over-year salary changes
 - Labels trends like 'Increase', 'Decrease', or 'No Change' for clarity
+
+## How This Analysis Could Be Used
+- Support workforce planning and compensation decisions
+- Identify job categories with rising or declining salary trends
+- Provide leadership with a clear year-over-year salary comparison
